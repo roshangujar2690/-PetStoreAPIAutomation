@@ -1,20 +1,51 @@
-2024-02-17 11:32:41 [main] INFO  PetTestCases:63 - ************************Creating a pet*********************************
-2024-02-17 11:32:50 [main] INFO  PetTestCases:80 - ************************A pet is created*********************************
-2024-02-17 11:32:50 [main] INFO  PetTestCases:86 - ************************Retrieving pet info*********************************
-2024-02-17 11:32:51 [main] INFO  PetTestCases:93 - ************************Pet info is retrieved*********************************
-2024-02-17 11:32:51 [main] INFO  PetTestCases:99 - ************************Updating a pet*********************************
-2024-02-17 11:32:52 [main] INFO  PetTestCases:108 - ************************Pet is updated*********************************
-2024-02-17 11:32:52 [main] INFO  PetTestCases:113 - ************************Deleting pet*********************************
-2024-02-17 11:32:53 [main] INFO  PetTestCases:121 - ************************Pet is deleted*********************************
-2024-02-17 11:32:53 [main] INFO  PetTestCases:123 - ************************Retrieving deleted pet*********************************
-2024-02-17 11:32:54 [main] INFO  PetTestCases:127 - ************************Pet info not found, pet deleted successfully*********************************
-2024-02-17 11:40:27 [main] INFO  PetTestCases:63 - ************************Creating a pet*********************************
-2024-02-17 11:40:33 [main] INFO  PetTestCases:80 - ************************A pet is created*********************************
-2024-02-17 11:40:33 [main] INFO  PetTestCases:86 - ************************Retrieving pet info*********************************
-2024-02-17 11:40:34 [main] INFO  PetTestCases:93 - ************************Pet info is retrieved*********************************
-2024-02-17 11:40:34 [main] INFO  PetTestCases:99 - ************************Updating a pet*********************************
-2024-02-17 11:40:35 [main] INFO  PetTestCases:108 - ************************Pet is updated*********************************
-2024-02-17 11:40:35 [main] INFO  PetTestCases:113 - ************************Deleting pet*********************************
-2024-02-17 11:40:36 [main] INFO  PetTestCases:121 - ************************Pet is deleted*********************************
-2024-02-17 11:40:36 [main] INFO  PetTestCases:123 - ************************Retrieving deleted pet*********************************
-2024-02-17 11:40:37 [main] INFO  PetTestCases:127 - ************************Pet info not found, pet deleted successfully*********************************
+2024-02-19 08:52:40 [main] INFO  PetTestCases:59 - ************************Creating a pet*********************************
+2024-02-19 08:52:50 [main] INFO  PetTestCases:76 - ************************A pet is created*********************************
+2024-02-19 08:52:50 [main] INFO  PetTestCases:82 - ************************Retrieving pet info*********************************
+2024-02-19 08:52:52 [main] INFO  PetTestCases:89 - ************************Pet info is retrieved*********************************
+2024-02-19 08:52:52 [main] INFO  PetTestCases:95 - ************************Updating a pet*********************************
+2024-02-19 08:52:55 [main] INFO  PetTestCases:104 - ************************Pet is updated*********************************
+2024-02-19 08:52:55 [main] INFO  PetTestCases:109 - ************************Deleting pet*********************************
+2024-02-19 08:52:56 [main] INFO  PetTestCases:117 - ************************Pet is deleted*********************************
+2024-02-19 08:52:56 [main] INFO  PetTestCases:119 - ************************Retrieving deleted pet*********************************
+2024-02-19 08:52:57 [main] INFO  PetTestCases:123 - ************************Pet info not found, pet deleted successfully*********************************
+2024-02-19 09:39:20 [main] INFO  PetTestCases:28 - ************************Creating a pet*********************************
+2024-02-19 09:39:22 [main] INFO  PetTestCases:45 - ************************A pet is created*********************************
+2024-02-19 09:39:22 [main] INFO  PetTestCases:51 - ************************Retrieving pet info*********************************
+2024-02-19 09:39:26 [main] INFO  PetTestCases:58 - ************************Pet info is retrieved*********************************
+2024-02-19 09:39:26 [main] INFO  PetTestCases:64 - ************************Updating a pet*********************************
+2024-02-19 09:39:27 [main] INFO  PetTestCases:73 - ************************Pet is updated*********************************
+2024-02-19 09:39:28 [main] INFO  PetTestCases:78 - ************************Deleting pet*********************************
+2024-02-19 09:39:29 [main] INFO  PetTestCases:86 - ************************Pet is deleted*********************************
+2024-02-19 09:39:29 [main] INFO  PetTestCases:88 - ************************Retrieving deleted pet*********************************
+2024-02-19 09:39:30 [main] INFO  PetTestCases:92 - ************************Pet info not found, pet deleted successfully*********************************
+2024-02-19 09:40:27 [main] INFO  PetTestCases:28 - ************************Creating a pet*********************************
+2024-02-19 09:40:30 [main] INFO  PetTestCases:45 - ************************A pet is created*********************************
+2024-02-19 09:40:30 [main] INFO  PetTestCases:51 - ************************Retrieving pet info*********************************
+2024-02-19 09:40:31 [main] INFO  PetTestCases:58 - ************************Pet info is retrieved*********************************
+2024-02-19 09:40:31 [main] INFO  PetTestCases:64 - ************************Updating a pet*********************************
+2024-02-19 09:40:32 [main] INFO  PetTestCases:73 - ************************Pet is updated*********************************
+2024-02-19 09:40:32 [main] INFO  PetTestCases:78 - ************************Deleting pet*********************************
+2024-02-19 09:40:35 [main] INFO  PetTestCases:86 - ************************Pet is deleted*********************************
+2024-02-19 09:40:35 [main] INFO  PetTestCases:88 - ************************Retrieving deleted pet*********************************
+2024-02-19 09:40:36 [main] INFO  PetTestCases:92 - ************************Pet info not found, pet deleted successfully*********************************
+2024-02-19 09:57:53 [main] INFO  PetTestCases:18 - ************************Creating a pet*********************************
+2024-02-19 09:57:55 [main] INFO  PetTestCases:35 - ************************A pet is created*********************************
+2024-02-19 09:57:55 [main] INFO  PetTestCases:41 - ************************Retrieving pet info*********************************
+2024-02-19 09:57:56 [main] INFO  PetTestCases:48 - ************************Pet info is retrieved*********************************
+2024-02-19 09:57:56 [main] INFO  PetTestCases:54 - ************************Updating a pet*********************************
+2024-02-19 09:57:58 [main] INFO  PetTestCases:63 - ************************Pet is updated*********************************
+2024-02-19 09:57:58 [main] INFO  PetTestCases:68 - ************************Deleting pet*********************************
+2024-02-19 09:57:59 [main] INFO  PetTestCases:76 - ************************Pet is deleted*********************************
+2024-02-19 09:57:59 [main] INFO  PetTestCases:78 - ************************Retrieving deleted pet*********************************
+2024-02-19 09:58:00 [main] INFO  PetTestCases:82 - ************************Pet info not found, pet deleted successfully*********************************
+2024-02-19 09:59:32 [main] INFO  PetTestCases:18 - ************************Creating a pet*********************************
+2024-02-19 09:59:33 [main] INFO  PetTestCases:35 - ************************A pet is created*********************************
+2024-02-19 09:59:33 [main] INFO  PetTestCases:41 - ************************Retrieving pet info*********************************
+2024-02-19 09:59:34 [main] INFO  PetTestCases:48 - ************************Pet info is retrieved*********************************
+2024-02-19 09:59:34 [main] INFO  PetTestCases:54 - ************************Updating a pet*********************************
+2024-02-19 09:59:36 [main] INFO  PetTestCases:63 - ************************Pet is updated*********************************
+2024-02-19 09:59:36 [main] INFO  PetTestCases:68 - ************************Deleting pet*********************************
+2024-02-19 09:59:37 [main] INFO  PetTestCases:76 - ************************Pet is deleted*********************************
+2024-02-19 09:59:37 [main] INFO  PetTestCases:78 - ************************Retrieving deleted pet*********************************
+2024-02-19 09:59:38 [main] INFO  PetTestCases:82 - ************************Pet info not found, pet deleted successfully*********************************
+2024-02-19 09:59:38 [main] INFO  PetTestCases:64 - **********Playwright closed*********

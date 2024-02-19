@@ -1,61 +1,16 @@
 package api.test;
 
 import java.io.IOException;
-import java.util.ArrayList;
-import java.util.List;
-
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
 import org.testng.Assert;
-import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.github.javafaker.Faker;
 import com.microsoft.playwright.APIResponse;
 
-import api.payload.Pet;
 import api.endpoints.PetEndPoints;
-import api.payload.Category;
-import api.payload.Tags;
 
-public class PetTestCases {
-	
-	Pet petPayload;
-	Faker faker;
-	public Logger logger;
-	
-	@BeforeClass
-	public void setup()
-	{ 
-//		playwright = Playwright.create();
-//		request=playwright.request();
-//		requestContext=request.newContext();
-		
-		petPayload= new Pet();
-		faker = new Faker();
-		
-		petPayload.setId(faker.idNumber().hashCode());
-		
-		petPayload.setName(faker.animal().name());
-		
-		Category cat = new Category(faker.bool().hashCode(), faker.cat().breed());
-		petPayload.setCategory(cat);
-		
-		petPayload.setPhotoUrls(new String [] {faker.internet().url()});
-		
-		Tags tags = new Tags(faker.bool().hashCode(), faker.cat().name());
-		List<Tags> tag = new ArrayList<>();
-		tag.add(tags);
-		petPayload.setTags(tag);
-		
-		petPayload.setStatus("Available");
-		
-		logger=LogManager.getLogger(this.getClass());
-		
-	}
-	
+public class PetTestCases extends BaseClass{
 	
 	@Test(priority=1)
 	public void testPostPet() throws IOException
@@ -127,11 +82,5 @@ public class PetTestCases {
 		logger.info("************************Pet info not found, pet deleted successfully*********************************");
 		
 	}
-	
-//	@AfterTest
-//	public void tearDown()
-//	{
-//		playwright.close();
-//	}
 
 }
